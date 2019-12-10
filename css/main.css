@@ -3,6 +3,14 @@ body {
 }
 
 hr {
-  background-color: #ffffff;
   border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 20px;
+  width: 15%;
+}
+
+img {
+  height: 230px;
+  width: 200px;
 }
