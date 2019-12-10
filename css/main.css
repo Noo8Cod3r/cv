@@ -6,11 +6,15 @@ hr {
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
-  border-width: 15px;
+  border-width: 10px;
   width: 10%;
 }
 
 img {
   height: 230px;
   width: 200px;
+}
+
+.header-text {
+  color: #272343;
 }
